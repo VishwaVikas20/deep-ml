@@ -1,0 +1,44 @@
+{
+  "generated_at": "2026-10-29T07:15:27.392Z",
+  "items": {
+    "problem:1": {
+      "kind": "problem",
+      "id": "1",
+      "title": "Matrix-Vector Dot Product",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1",
+      "path": "problems/0001-matrix-vector-dot-product",
+      "first_solved_at": "2026-07-10T08:09:35.529Z",
+      "last_pushed_at": "2026-07-10T08:09:35.529Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:116": {
+      "kind": "problem",
+      "id": "116",
+      "title": "Derivative of a Polynomial",
+      "difficulty": "easy",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/116",
+      "path": "problems/0116-derivative-of-a-polynomial",
+      "first_solved_at": "2026-07-10T08:19:15.579Z",
+      "last_pushed_at": "2026-07-10T08:19:15.579Z",
+      "language": "python",
+      "lines": 4
+    },
+    "problem:309": {
+      "kind": "problem",
+      "id": "309",
+      "title": "Product Rule for Derivatives",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/309",
+      "path": "problems/0309-product-rule-for-derivatives",
+      "first_solved_at": "2026-07-10T08:55:15.656Z",
+      "last_pushed_at": "2026-07-10T08:55:15.656Z",
+      "language": "python",
+      "lines": 31
+    }
+  }
+}
