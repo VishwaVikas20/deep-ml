@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T14:14:07.009Z",
+  "generated_at": "2026-10-29T14:19:19.494Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -109,6 +109,17 @@
       "path": "math/0034-least-squares-and-the-normal-equations",
       "first_solved_at": "2026-10-29T14:14:05.842Z",
       "last_pushed_at": "2026-10-29T14:14:05.842Z"
+    },
+    "math:5": {
+      "kind": "math",
+      "id": "5",
+      "title": "Gradient Descent Updates",
+      "difficulty": "easy",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/5",
+      "path": "math/0005-gradient-descent-updates",
+      "first_solved_at": "2026-10-29T14:19:18.742Z",
+      "last_pushed_at": "2026-10-29T14:19:18.742Z"
     }
   }
 }
