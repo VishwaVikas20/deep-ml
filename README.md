@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**14** solved · 7 problems · 0 labs · 7 math
+**15** solved · 8 problems · 0 labs · 7 math
 
 ![Coverage](./coverage.svg)
 
@@ -19,6 +19,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Random Train/Validation/Test Split with Shuffling](https://www.deep-ml.com/problems/1058) | easy | 2026-10-29 | [solution](problems/1058-random-train-validation-test-split-with-shuffling) |
 | [Product Rule for Derivatives](https://www.deep-ml.com/problems/309) | medium | 2026-07-10 | [solution](problems/0309-product-rule-for-derivatives) |
 | [Quotient Rule for Derivatives](https://www.deep-ml.com/problems/312) | medium | 2026-07-20 | [solution](problems/0312-quotient-rule-for-derivatives) |
+| [StandardScaler Fit and Transform](https://www.deep-ml.com/problems/842) | medium | 2026-10-29 | [solution](problems/0842-standardscaler-fit-and-transform) |
 
 ## Math
 
