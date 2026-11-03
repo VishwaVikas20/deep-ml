@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**23** solved · 16 problems · 0 labs · 7 math
+**24** solved · 16 problems · 0 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -39,6 +39,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Gradient Descent Updates](https://www.deep-ml.com/math-problems/5) | easy | 2026-10-29 | [solution](math/0005-gradient-descent-updates) |
 | [ML Workflow Basics](https://www.deep-ml.com/math-problems/30) | easy | 2026-10-29 | [solution](math/0030-ml-workflow-basics) |
 | [Least Squares and the Normal Equations](https://www.deep-ml.com/math-problems/34) | medium | 2026-10-29 | [solution](math/0034-least-squares-and-the-normal-equations) |
+| [Logistic Regression as Maximum Likelihood](https://www.deep-ml.com/math-problems/40) | medium | 2026-11-03 | [solution](math/0040-logistic-regression-as-maximum-likelihood) |
 | [Multivariate Calculus](https://www.deep-ml.com/math-problems/2) | medium | 2026-10-29 | [solution](math/0002-multivariate-calculus) |
 
 ---
